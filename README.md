@@ -49,3 +49,7 @@ Text Batch 3.4.5 ~
 ### Includes
 
 ZIP Includes TB.exe and TBUpdater.exe, TBUpdater no longer works because it cannot download directly from firststep.
+
+### Dowloading
+
+**Caution while dowloading.** These files have been passed through many systems through many years and may contain unwanted data.  Download all files at your own risk.
