@@ -1,2 +1,1 @@
-# tbpe
-Text Batch Premium Edition
+# Text Batch Premium Edition
